@@ -1,0 +1,607 @@
+{
+    "props": {
+        "pageProps": {
+            "favorites": 0,
+            "numberDoors": 4,
+            "newUsed": "Used",
+            "displayTime": "May 30, 2023",
+            "lastName": "Frost",
+            "titleType": "Clean Title",
+            "city": "Salt Lake City",
+            "fuel": "Gasoline",
+            "description": "Infiniti G35x Sedan AWD 3.5L V6\n\nSecond owner. I&amp;rsquo;ve had this car for 7 years, and have loved every minute. Super reliable, lots of power, excellent AWD system, with sporty looks to boot. Maintained by Infiniti  mechanic for majority of ownership, always had oil changes on time every 5k w/ full synthetic oil, and used premium gas only. \nSelling because I&amp;rsquo;m looking to get a pickup truck and need more cargo space.\n\nBlack leather interior \n17&amp;rdquo; alloy wheels with all season tires\nBose speakers with upgraded Pioneer head unit with Bluetooth music and handsfree calls. Power seats with 2x memory, lumbar adjustment, auto windows, moon roof, auto Xenon headlights. Slotted and drilled  front brake rotors for improved cooling and performance coming down canyon which prevents rotor warpage. Z-tube (Nissan 350Z) intake with reusable cone filter.\nAuto dimming rear view window, power adjustable side mirrors, heated front seats, front and rear defroster, garage door buttons, rear AC vents, tinted rear windows, analog clock, glove box, 12v on dash and center console, cup holders. Reclining rear seats, \nComes with full size spare, factory jack, lug nut wrench, wheel lock nut, air filter cleaning kit, extra air cabin filter. New OEM key fob, keyless entry, keyless start. \n\nHad radiator, and headlamp bulbs replaced recently. Cam shaft sensor and fuel delivery pump has been replaced. \nCould use new struts but only makes some noise over bumps at low speed.",
+            "paint": [
+                "Silver"
+            ],
+            "body": "Sedan",
+            "transmission": "Automatic",
+            "trim": "G35x",
+            "price": "$8,000",
+            "vin": "JNKCV51F06M606056",
+            "model": "G35",
+            "id": 8589265,
+            "state": "UT",
+            "make": "Infiniti",
+            "memberId": 3285392,
+            "mileage": "179,000",
+            "contactMethod": [
+                "messages"
+            ],
+            "zip": "84106",
+            "exteriorColor": "Silver",
+            "liters": "3.5L",
+            "makeYear": 2006,
+            "productStatus": [
+                "frontline"
+            ],
+            "photo": [
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429916-990990.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429920-835715.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429924-205216.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429928-319871.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429933-329629.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429937-784891.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429941-91381.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 450,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429945-159836.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429949-745808.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429953-12152.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429957-441614.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429961-970264.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 450,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429966-687785.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 450,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429969-210141.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429973-542616.jpg",
+                    "height": 600
+                }
+            ],
+            "cylinders": 6,
+            "firstName": "Andrew",
+            "expireTime": 1688021976,
+            "latLon": "40.705807,-111.856978",
+            "drive": "AWD",
+            "sellerType": "For Sale By Owner",
+            "exteriorCondition": "Fair",
+            "interiorCondition": "Fair",
+            "status": "Active",
+            "favoritedByCurrentUser": false,
+            "displayTimeRaw": 1685429991,
+            "priceRaw": 8000,
+            "mileageRaw": 179000,
+            "contactlessDelivery": false,
+            "schemaMarkupList": {
+                "@type": "Car",
+                "@context": "http://schema.org",
+                "vehicleIdentificationNumber": "JNKCV51F06M606056",
+                "name": "2006 Infiniti G35 G35x",
+                "image": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429916-990990.jpg",
+                "url": "https://cars.ksl.com/listing/8589265",
+                "color": "Silver",
+                "vehicleInteriorColor": "Other",
+                "bodyType": "Sedan",
+                "fuelType": "Gasoline",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "unitCode": "SMI",
+                    "value": "179,000"
+                },
+                "numberOfDoors": 4,
+                "driveWheelConfiguration": {
+                    "@id": "https://schema.org/AllWheelDriveConfiguration"
+                },
+                "modelDate": 2006,
+                "vehicleTransmission": "Automatic",
+                "vehicleEngine": [
+                    {
+                        "@type": "EngineSpecification",
+                        "engineType": "internal combustion engine",
+                        "fuelType": "Gasoline",
+                        "name": "6 cylinder Gasoline 3.5L"
+                    }
+                ],
+                "vehicleConfiguration": "G35x",
+                "steeringPosition": {
+                    "@id": "http://schema.org/LeftHandDriving"
+                },
+                "manufacturer": "Infiniti",
+                "description": "Infiniti G35x Sedan AWD 3.5L V6\n\nSecond owner. I&amp;rsquo;ve had this car for 7 years, and have loved every minute. Super reliable, lots of power, excellent AWD system, with sporty looks to boot. Maintained by Infiniti  mechanic for majority of ownership, always had oil changes on time every 5k w/ full synthetic oil, and used premium gas only. \nSelling because I&amp;rsquo;m looking to get a pickup truck and need more cargo space.\n\nBlack leather interior \n17&amp;rdquo; alloy wheels with all season tires\nBose speakers with upgraded Pioneer head unit with Bluetooth music and handsfree calls. Power seats with 2x memory, lumbar adjustment, auto windows, moon roof, auto Xenon headlights. Slotted and drilled  front brake rotors for improved cooling and performance coming down canyon which prevents rotor warpage. Z-tube (Nissan 350Z) intake with reusable cone filter.\nAuto dimming rear view window, power adjustable side mirrors, heated front seats, front and rear defroster, garage door buttons, rear AC vents, tinted rear windows, analog clock, glove box, 12v on dash and center console, cup holders. Reclining rear seats, \nComes with full size spare, factory jack, lug nut wrench, wheel lock nut, air filter cleaning kit, extra air cabin filter. New OEM key fob, keyless entry, keyless start. \n\nHad radiator, and headlamp bulbs replaced recently. Cam shaft sensor and fuel delivery pump has been replaced. \nCould use new struts but only makes some noise over bumps at low speed.",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "KSL Cars"
+                },
+                "offer": {
+                    "@type": "Offer",
+                    "priceCurrency": "USD",
+                    "price": 8000,
+                    "availability": "https://schema.org/InStock",
+                    "itemCondition": {
+                        "@id": "https://schema.org/UsedCondition"
+                    },
+                    "seller": {
+                        "@type": "Person",
+                        "name": "Andrew",
+                        "telephone": "",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "USA",
+                            "postalCode": "84106"
+                        }
+                    }
+                }
+            },
+            "isSingleFSBOListing": true,
+            "member": {
+                "id": "4834680",
+                "zip": "97818"
+            },
+            "initialReduxState": {
+                "app": {
+                    "sessionData": {
+                        "es_query_group": "fc9a7a35-471e-4bec-b121-057ea16c1ee6",
+                        "sess_referer": "https://cars.ksl.com/",
+                        "sess_ip": "54.71.26.201",
+                        "sess_protocol": "https",
+                        "sess_count": 0,
+                        "page_count": 1,
+                        "member": {
+                            "email": "muhammad.mohsin26@gmail.com",
+                            "emailValid": true,
+                            "ppid": "7bd171b7234a8960698b3be6ccaa2c99e2d8e7e6",
+                            "id": 4834680,
+                            "first": "Muhammad",
+                            "last": "Mohsin",
+                            "accountage": "6"
+                        },
+                        "mid": 4834680,
+                        "session_id": "sepj6cspnehgcdesmbs1vltlgi"
+                    },
+                    "eventPage": "listing.index",
+                    "member": {
+                        "altPhone": "",
+                        "city": "",
+                        "createTime": "Thu, 25 May 2023 05:37:36 GMT",
+                        "email": "muhammad.mohsin26@gmail.com",
+                        "emailAllow": "false",
+                        "emailValid": "true",
+                        "firstName": "Muhammad",
+                        "lastName": "Mohsin",
+                        "loginTime": "Tue, 30 May 2023 01:41:15 GMT",
+                        "loginTotal": 9,
+                        "memberId": 4834680,
+                        "ppid": "7bd171b7234a8960698b3be6ccaa2c99e2d8e7e6",
+                        "priPhone": "",
+                        "role": "nobody",
+                        "screenname": "mohsin",
+                        "state": "",
+                        "status": "normal",
+                        "street1": "",
+                        "street2": "",
+                        "twoFactorAuth": "disabled",
+                        "valid": true,
+                        "zip": "97818",
+                        "id": "4834680",
+                        "access_token_cookie": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY4NTQzMjQ3NSwianRpIjoiMGM1Y2UxNWUtM2M5OC00ZjExLTg3NzktZjcxOTg0ODA5NjU2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJtZW1iZXJJZCI6NDgzNDY4MCwicm9sZSI6Im5vYm9keSJ9LCJuYmYiOjE2ODU0MzI0NzUsImV4cCI6MTY4NTUxODg3NX0.gDJ1twVX8XxvowLwbrV1daXo9LfXd8N0MfguhU7myuA",
+                        "refresh_token_cookie": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY4NTQzMjQ3NSwianRpIjoiZDVlMTAyZmQtZTNlOS00YmYyLWIyZTUtYTRjZGZhNjg5MjQ1IiwidHlwZSI6InJlZnJlc2giLCJzdWIiOnsibWVtYmVySWQiOjQ4MzQ2ODAsInJvbGUiOiJub2JvZHkifSwibmJmIjoxNjg1NDMyNDc1LCJleHAiOjE3MDEyNDM2NzV9.Wq-8-3LWRQwx-e6CpyeT_Qlg5nEZp5DXTkwA6xVUw_I"
+                    },
+                    "dataLayerInitializationData": {},
+                    "dataLayerEventQueue": [],
+                    "seo": false,
+                    "gtmLoaded": false,
+                    "pubAdsReady": false,
+                    "ua": {
+                        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+                        "browser": {
+                            "name": "Chrome",
+                            "version": "113.0.0.0",
+                            "major": "113"
+                        },
+                        "engine": {
+                            "name": "Blink",
+                            "version": "113.0.0.0"
+                        },
+                        "os": {
+                            "name": "Windows",
+                            "version": "10"
+                        },
+                        "device": {},
+                        "cpu": {
+                            "architecture": "amd64"
+                        }
+                    },
+                    "httpReferrer": null,
+                    "ip": null,
+                    "features": {},
+                    "window": {
+                        "width": null,
+                        "height": null,
+                        "isMobile": false,
+                        "bps": [
+                            "desktop"
+                        ],
+                        "scrollY": false
+                    },
+                    "wings": {},
+                    "banners": {},
+                    "applicationError": {
+                        "showModal": false,
+                        "message": "",
+                        "link": ""
+                    },
+                    "toast": null,
+                    "bustApiCache": false,
+                    "error500MessageResponse": null,
+                    "browser": {},
+                    "favoriteAlertsModalOpen": false,
+                    "favoriteAlertsListing": null
+                },
+                "backlotSearch": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "endOfListings": false,
+                    "listingCount": 0,
+                    "loadingListings": false,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "requestAccess": {
+                        "pending": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "showNewFilterTagsMobile": false,
+                    "showNewFilterTagsDesktop": false
+                },
+                "backlotVdp": {
+                    "listing": {
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": null,
+                    "carousel": [],
+                    "carouselQuery": {},
+                    "carouselItemsLoading": false,
+                    "carouselItemsAvailable": true,
+                    "carouselItemsTotal": true,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "specificationIsOpen": false,
+                    "conditionReportIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "conditionTag": null
+                },
+                "dataLayer": {
+                    "impressionsQueue": []
+                },
+                "polls": {
+                    "polls": [],
+                    "pollGroups": [],
+                    "pollsLoading": false,
+                    "state": "ask",
+                    "open": true,
+                    "pollStats": {},
+                    "vdpPollStats": []
+                },
+                "recordings": {
+                    "recordings": [],
+                    "totalRecordings": 0,
+                    "page": 0,
+                    "loadingRecordings": true,
+                    "downloadReady": false,
+                    "generatingDownload": false
+                },
+                "search": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "listingCount": 0,
+                    "loadingListings": true,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "spotlights": [],
+                    "spotlightCount": 0,
+                    "spotlightsPerRow": 0,
+                    "mixedListings": [],
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "dealerViewMemberId": null,
+                    "showNewFilterTagsDesktop": false,
+                    "showNewFilterTagsMobile": false,
+                    "showCounterIncremented": false,
+                    "filterTagsToShow": [
+                        "alphaWarranty",
+                        "listingType"
+                    ]
+                },
+                "vdp": {
+                    "listing": {
+                        "favorites": 0,
+                        "numberDoors": 4,
+                        "newUsed": "Used",
+                        "displayTime": "May 30, 2023",
+                        "lastName": "Frost",
+                        "titleType": "Clean Title",
+                        "city": "Salt Lake City",
+                        "fuel": "Gasoline",
+                        "description": "Infiniti G35x Sedan AWD 3.5L V6\n\nSecond owner. I&amp;rsquo;ve had this car for 7 years, and have loved every minute. Super reliable, lots of power, excellent AWD system, with sporty looks to boot. Maintained by Infiniti  mechanic for majority of ownership, always had oil changes on time every 5k w/ full synthetic oil, and used premium gas only. \nSelling because I&amp;rsquo;m looking to get a pickup truck and need more cargo space.\n\nBlack leather interior \n17&amp;rdquo; alloy wheels with all season tires\nBose speakers with upgraded Pioneer head unit with Bluetooth music and handsfree calls. Power seats with 2x memory, lumbar adjustment, auto windows, moon roof, auto Xenon headlights. Slotted and drilled  front brake rotors for improved cooling and performance coming down canyon which prevents rotor warpage. Z-tube (Nissan 350Z) intake with reusable cone filter.\nAuto dimming rear view window, power adjustable side mirrors, heated front seats, front and rear defroster, garage door buttons, rear AC vents, tinted rear windows, analog clock, glove box, 12v on dash and center console, cup holders. Reclining rear seats, \nComes with full size spare, factory jack, lug nut wrench, wheel lock nut, air filter cleaning kit, extra air cabin filter. New OEM key fob, keyless entry, keyless start. \n\nHad radiator, and headlamp bulbs replaced recently. Cam shaft sensor and fuel delivery pump has been replaced. \nCould use new struts but only makes some noise over bumps at low speed.",
+                        "paint": [
+                            "Silver"
+                        ],
+                        "body": "Sedan",
+                        "transmission": "Automatic",
+                        "trim": "G35x",
+                        "price": "$8,000",
+                        "vin": "JNKCV51F06M606056",
+                        "model": "G35",
+                        "id": 8589265,
+                        "state": "UT",
+                        "make": "Infiniti",
+                        "memberId": 3285392,
+                        "mileage": "179,000",
+                        "contactMethod": [
+                            "messages"
+                        ],
+                        "zip": "84106",
+                        "exteriorColor": "Silver",
+                        "liters": "3.5L",
+                        "makeYear": 2006,
+                        "productStatus": [
+                            "frontline"
+                        ],
+                        "photo": [
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429916-990990.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429920-835715.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429924-205216.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429928-319871.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429933-329629.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429937-784891.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429941-91381.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 450,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429945-159836.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429949-745808.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429953-12152.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429957-441614.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429961-970264.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 450,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429966-687785.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 450,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429969-210141.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3285392-1685429973-542616.jpg",
+                                "height": 600
+                            }
+                        ],
+                        "cylinders": 6,
+                        "firstName": "Andrew",
+                        "expireTime": 1688021976,
+                        "latLon": "40.705807,-111.856978",
+                        "drive": "AWD",
+                        "sellerType": "For Sale By Owner",
+                        "exteriorCondition": "Fair",
+                        "interiorCondition": "Fair",
+                        "status": "Active",
+                        "favoritedByCurrentUser": false,
+                        "displayTimeRaw": 1685429991,
+                        "priceRaw": 8000,
+                        "mileageRaw": 179000,
+                        "contactlessDelivery": false,
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": true,
+                    "recommendationCarousel": [],
+                    "dealerCarousel": [],
+                    "dealerCarouselQuery": {},
+                    "recommendationCarouselItemsLoading": false,
+                    "recommendationCarouselItemsAvailable": false,
+                    "dealerCarouselItemsLoading": false,
+                    "dealerCarouselItemsTotal": 0,
+                    "dealerCarouselItemsAvailable": false,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "flagListingValidated": null,
+                    "specificationIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "tiv": {},
+                    "dealFiRedirectUrl": null,
+                    "dealFiPostingError": null
+                }
+            }
+        }
+    },
+    "page": "/listing/[[...params]]",
+    "query": {
+        "params": [
+            "8589265"
+        ]
+    },
+    "buildId": "cars-ui-build",
+    "runtimeConfig": {
+        "API_URL": "https://api3.ksl.com",
+        "CARS_API_URL": "https://cars-api.ksl.com",
+        "KSL_URL": "https://www.ksl.com",
+        "CARS_URL": "https://cars.ksl.com",
+        "MYACCOUNT_URL": "https://www.ksl.com/myaccount",
+        "ENVIRONMENT": "production",
+        "OPTIMIZELY_SDK_KEY": "G6uxEzWLgmAAY1sccNis5x",
+        "MAPBOX_TOKEN": "pk.eyJ1IjoiZGRtLW1hcHMiLCJhIjoiY2tsbXJ3MXA1MDNpcjJvbzBsdG8wYTJpNSJ9.3qbXBIBvoiCwORM24rpXNQ",
+        "RECORDINGS_VERTICAL": "cars"
+    },
+    "isFallback": false,
+    "customServer": true,
+    "gip": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,511 @@
+{
+    "props": {
+        "pageProps": {
+            "favorites": 6,
+            "numberDoors": 4,
+            "newUsed": "Used",
+            "displayTime": "May 23, 2023",
+            "titleType": "Clean Title",
+            "lastName": "",
+            "upholstery": [
+                "Black"
+            ],
+            "city": "Alpine",
+            "fuel": "Gasoline",
+            "paint": [
+                "White"
+            ],
+            "description": "New Honda CR-V Hybrid Sport Touring.  Got it for my daughters graduation and she wanted another car.  Spoiled little shit now gets nothing so I am selling it!",
+            "body": "Compact",
+            "interiorColor": "Black",
+            "transmission": "CVT",
+            "trim": "Touring",
+            "price": "$40,850",
+            "vin": "2HKRS6H96PH817266",
+            "model": "CR-V Hybrid",
+            "id": 8576362,
+            "state": "UT",
+            "make": "Honda",
+            "memberId": 3222867,
+            "mileage": "110",
+            "contactMethod": [
+                "messages",
+                "text",
+                "phoneEmail"
+            ],
+            "zip": "84004",
+            "exteriorColor": "White",
+            "liters": "2.0L",
+            "makeYear": 2023,
+            "productStatus": [
+                "frontline"
+            ],
+            "photo": [
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850606-699335.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850613-217989.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850617-488132.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850623-668582.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850629-80759.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850633-561103.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 449,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850641-684430.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 449,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850649-377077.jpg",
+                    "height": 600
+                }
+            ],
+            "cylinders": 4,
+            "firstName": "",
+            "expireTime": 1687442652,
+            "mobilePhone": "",
+            "latLon": "",
+            "drive": "4-Wheel Drive",
+            "sellerType": "For Sale By Owner",
+            "exteriorCondition": "Excellent",
+            "interiorCondition": "Excellent",
+            "status": "Active",
+            "favoritedByCurrentUser": false,
+            "displayTimeRaw": 1684850667,
+            "priceRaw": 40850,
+            "mileageRaw": 110,
+            "contactlessDelivery": false,
+            "schemaMarkupList": {
+                "@type": "Car",
+                "@context": "http://schema.org",
+                "vehicleIdentificationNumber": "2HKRS6H96PH817266",
+                "name": "2023 Honda CR-V Hybrid Touring",
+                "image": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850606-699335.jpg",
+                "url": "https://cars.ksl.com/listing/8576362",
+                "color": "White",
+                "vehicleInteriorColor": "Black",
+                "bodyType": "Compact",
+                "fuelType": "Gasoline",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "unitCode": "SMI",
+                    "value": "110"
+                },
+                "numberOfDoors": 4,
+                "driveWheelConfiguration": {
+                    "@id": "https://schema.org/FourWheelDriveConfiguration"
+                },
+                "modelDate": 2023,
+                "vehicleTransmission": "CVT",
+                "vehicleEngine": [
+                    {
+                        "@type": "EngineSpecification",
+                        "engineType": "internal combustion engine",
+                        "fuelType": "Gasoline",
+                        "name": "4 cylinder Gasoline 2.0L"
+                    }
+                ],
+                "vehicleConfiguration": "Touring",
+                "steeringPosition": {
+                    "@id": "http://schema.org/LeftHandDriving"
+                },
+                "manufacturer": "Honda",
+                "description": "New Honda CR-V Hybrid Sport Touring.  Got it for my daughters graduation and she wanted another car.  Spoiled little shit now gets nothing so I am selling it!",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "KSL Cars"
+                },
+                "offer": {
+                    "@type": "Offer",
+                    "priceCurrency": "USD",
+                    "price": 40850,
+                    "availability": "https://schema.org/InStock",
+                    "itemCondition": {
+                        "@id": "https://schema.org/UsedCondition"
+                    },
+                    "seller": {
+                        "@type": "Person",
+                        "name": "",
+                        "telephone": "",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "USA",
+                            "postalCode": "84004"
+                        }
+                    }
+                }
+            },
+            "isSingleFSBOListing": true,
+            "initialReduxState": {
+                "app": {
+                    "sessionData": {
+                        "es_query_group": "fc9a7a35-471e-4bec-b121-057ea16c1ee6",
+                        "sess_referer": "https://cars.ksl.com/",
+                        "sess_ip": "54.71.26.201",
+                        "sess_protocol": "https",
+                        "sess_count": 0,
+                        "page_count": 1,
+                        "session_id": "sepj6cspnehgcdesmbs1vltlgi"
+                    },
+                    "eventPage": "listing.index",
+                    "member": null,
+                    "dataLayerInitializationData": {},
+                    "dataLayerEventQueue": [],
+                    "seo": false,
+                    "gtmLoaded": false,
+                    "pubAdsReady": false,
+                    "ua": {
+                        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+                        "browser": {
+                            "name": "Chrome",
+                            "version": "113.0.0.0",
+                            "major": "113"
+                        },
+                        "engine": {
+                            "name": "Blink",
+                            "version": "113.0.0.0"
+                        },
+                        "os": {
+                            "name": "Windows",
+                            "version": "10"
+                        },
+                        "device": {},
+                        "cpu": {
+                            "architecture": "amd64"
+                        }
+                    },
+                    "httpReferrer": null,
+                    "ip": null,
+                    "features": {},
+                    "window": {
+                        "width": null,
+                        "height": null,
+                        "isMobile": false,
+                        "bps": [
+                            "desktop"
+                        ],
+                        "scrollY": false
+                    },
+                    "wings": {},
+                    "banners": {},
+                    "applicationError": {
+                        "showModal": false,
+                        "message": "",
+                        "link": ""
+                    },
+                    "toast": null,
+                    "bustApiCache": false,
+                    "error500MessageResponse": null,
+                    "browser": {},
+                    "favoriteAlertsModalOpen": false,
+                    "favoriteAlertsListing": null
+                },
+                "backlotSearch": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "endOfListings": false,
+                    "listingCount": 0,
+                    "loadingListings": false,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "requestAccess": {
+                        "pending": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "showNewFilterTagsMobile": false,
+                    "showNewFilterTagsDesktop": false
+                },
+                "backlotVdp": {
+                    "listing": {
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": null,
+                    "carousel": [],
+                    "carouselQuery": {},
+                    "carouselItemsLoading": false,
+                    "carouselItemsAvailable": true,
+                    "carouselItemsTotal": true,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "specificationIsOpen": false,
+                    "conditionReportIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "conditionTag": null
+                },
+                "dataLayer": {
+                    "impressionsQueue": []
+                },
+                "polls": {
+                    "polls": [],
+                    "pollGroups": [],
+                    "pollsLoading": false,
+                    "state": "ask",
+                    "open": true,
+                    "pollStats": {},
+                    "vdpPollStats": []
+                },
+                "recordings": {
+                    "recordings": [],
+                    "totalRecordings": 0,
+                    "page": 0,
+                    "loadingRecordings": true,
+                    "downloadReady": false,
+                    "generatingDownload": false
+                },
+                "search": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "listingCount": 0,
+                    "loadingListings": true,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "spotlights": [],
+                    "spotlightCount": 0,
+                    "spotlightsPerRow": 0,
+                    "mixedListings": [],
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "dealerViewMemberId": null,
+                    "showNewFilterTagsDesktop": false,
+                    "showNewFilterTagsMobile": false,
+                    "showCounterIncremented": false,
+                    "filterTagsToShow": [
+                        "alphaWarranty",
+                        "listingType"
+                    ]
+                },
+                "vdp": {
+                    "listing": {
+                        "favorites": 6,
+                        "numberDoors": 4,
+                        "newUsed": "Used",
+                        "displayTime": "May 23, 2023",
+                        "titleType": "Clean Title",
+                        "lastName": "",
+                        "upholstery": [
+                            "Black"
+                        ],
+                        "city": "Alpine",
+                        "fuel": "Gasoline",
+                        "paint": [
+                            "White"
+                        ],
+                        "description": "New Honda CR-V Hybrid Sport Touring.  Got it for my daughters graduation and she wanted another car.  Spoiled little shit now gets nothing so I am selling it!",
+                        "body": "Compact",
+                        "interiorColor": "Black",
+                        "transmission": "CVT",
+                        "trim": "Touring",
+                        "price": "$40,850",
+                        "vin": "2HKRS6H96PH817266",
+                        "model": "CR-V Hybrid",
+                        "id": 8576362,
+                        "state": "UT",
+                        "make": "Honda",
+                        "memberId": 3222867,
+                        "mileage": "110",
+                        "contactMethod": [
+                            "messages",
+                            "text",
+                            "phoneEmail"
+                        ],
+                        "zip": "84004",
+                        "exteriorColor": "White",
+                        "liters": "2.0L",
+                        "makeYear": 2023,
+                        "productStatus": [
+                            "frontline"
+                        ],
+                        "photo": [
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850606-699335.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850613-217989.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850617-488132.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850623-668582.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850629-80759.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850633-561103.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 449,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850641-684430.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 449,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/3222867-1684850649-377077.jpg",
+                                "height": 600
+                            }
+                        ],
+                        "cylinders": 4,
+                        "firstName": "",
+                        "expireTime": 1687442652,
+                        "mobilePhone": "",
+                        "latLon": "",
+                        "drive": "4-Wheel Drive",
+                        "sellerType": "For Sale By Owner",
+                        "exteriorCondition": "Excellent",
+                        "interiorCondition": "Excellent",
+                        "status": "Active",
+                        "favoritedByCurrentUser": false,
+                        "displayTimeRaw": 1684850667,
+                        "priceRaw": 40850,
+                        "mileageRaw": 110,
+                        "contactlessDelivery": false,
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": true,
+                    "recommendationCarousel": [],
+                    "dealerCarousel": [],
+                    "dealerCarouselQuery": {},
+                    "recommendationCarouselItemsLoading": false,
+                    "recommendationCarouselItemsAvailable": false,
+                    "dealerCarouselItemsLoading": false,
+                    "dealerCarouselItemsTotal": 0,
+                    "dealerCarouselItemsAvailable": false,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "flagListingValidated": null,
+                    "specificationIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "tiv": {},
+                    "dealFiRedirectUrl": null,
+                    "dealFiPostingError": null
+                }
+            }
+        }
+    },
+    "page": "/listing/[[...params]]",
+    "query": {
+        "params": [
+            "8576362"
+        ]
+    },
+    "buildId": "cars-ui-build",
+    "runtimeConfig": {
+        "API_URL": "https://api3.ksl.com",
+        "CARS_API_URL": "https://cars-api.ksl.com",
+        "KSL_URL": "https://www.ksl.com",
+        "CARS_URL": "https://cars.ksl.com",
+        "MYACCOUNT_URL": "https://www.ksl.com/myaccount",
+        "ENVIRONMENT": "production",
+        "OPTIMIZELY_SDK_KEY": "G6uxEzWLgmAAY1sccNis5x",
+        "MAPBOX_TOKEN": "pk.eyJ1IjoiZGRtLW1hcHMiLCJhIjoiY2tsbXJ3MXA1MDNpcjJvbzBsdG8wYTJpNSJ9.3qbXBIBvoiCwORM24rpXNQ",
+        "RECORDINGS_VERTICAL": "cars"
+    },
+    "isFallback": false,
+    "customServer": true,
+    "gip": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,593 @@
+{
+    "props": {
+        "pageProps": {
+            "numberDoors": 4,
+            "favorites": 11,
+            "newUsed": "Used",
+            "displayTime": "May 30, 2023",
+            "titleType": "Rebuilt/Reconstructed Title",
+            "lastName": "Sigler",
+            "upholstery": [
+                "Brown"
+            ],
+            "city": "Eagle Mountain",
+            "fuel": "Gasoline",
+            "paint": [
+                "Orange"
+            ],
+            "description": "Selling my custom Jeep. Hemi swap done by AEV in Montana and the build was done by Just 4 Fun in Lindon UT.\n\n5.7L Hemi\nTeraFlex 60&amp;rsquo;s with 5:38 Super 60 gears, \nARB air lockers, with compressor \n35 spline chromoly shafts, \nBig Brakes and Full Float hubs.\nUpgraded 1350 driveshafts.\nFalcon 3.3 series shocks.\nTeraFlex Nomad wheels loaded with the Nomad fast air deflators.\n40&amp;rdquo; Tires\nCustom seats done by AEV\nAEV Dash Gages \nFull aluminum Skid Plate\nMore mods done, to many to list.\n\nCall or text if interested or for questions.",
+            "body": "SUV",
+            "interiorColor": "Brown",
+            "transmission": "Automanual",
+            "trim": "Rubicon",
+            "price": "$68,000",
+            "vin": "1C4BJWFGXGL135444",
+            "model": "Wrangler Unlimited",
+            "id": 8518550,
+            "state": "UT",
+            "make": "Jeep",
+            "memberId": 2052932,
+            "mileage": "50,000",
+            "contactMethod": [
+                "phone",
+                "text",
+                "phoneEmail"
+            ],
+            "zip": "84005",
+            "exteriorColor": "Orange",
+            "liters": "5.7L",
+            "makeYear": 2016,
+            "productStatus": [
+                "frontline"
+            ],
+            "photo": [
+                {
+                    "width": 458,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380190-227061.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 453,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380194-283103.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380202-126632.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380210-425702.jpg",
+                    "height": 599
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380215-244313.jpg",
+                    "height": 599
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380222-686608.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 338,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380227-475800.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 338,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380233-188188.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380237-819171.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380248-876264.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380257-146937.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380262-682485.jpg",
+                    "height": 600
+                }
+            ],
+            "cylinders": 8,
+            "firstName": "Evan",
+            "primaryPhone": "(801) 450-2118",
+            "expireTime": 1688021693,
+            "mobilePhone": "(801) 450-2118",
+            "latLon": "40.349739,-111.98479",
+            "drive": "4-Wheel Drive",
+            "sellerType": "For Sale By Owner",
+            "exteriorCondition": "Good",
+            "interiorCondition": "Very Good",
+            "status": "Active",
+            "favoritedByCurrentUser": false,
+            "displayTimeRaw": 1685429693,
+            "priceRaw": 68000,
+            "mileageRaw": 50000,
+            "contactlessDelivery": false,
+            "schemaMarkupList": {
+                "@type": "Car",
+                "@context": "http://schema.org",
+                "vehicleIdentificationNumber": "1C4BJWFGXGL135444",
+                "name": "2016 Jeep Wrangler Unlimited Rubicon",
+                "image": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380190-227061.jpg",
+                "url": "https://cars.ksl.com/listing/8518550",
+                "color": "Orange",
+                "vehicleInteriorColor": "Brown",
+                "bodyType": "SUV",
+                "fuelType": "Gasoline",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "unitCode": "SMI",
+                    "value": "50,000"
+                },
+                "numberOfDoors": 4,
+                "driveWheelConfiguration": {
+                    "@id": "https://schema.org/FourWheelDriveConfiguration"
+                },
+                "modelDate": 2016,
+                "vehicleTransmission": "Automanual",
+                "vehicleEngine": [
+                    {
+                        "@type": "EngineSpecification",
+                        "engineType": "internal combustion engine",
+                        "fuelType": "Gasoline",
+                        "name": "8 cylinder Gasoline 5.7L"
+                    }
+                ],
+                "vehicleConfiguration": "Rubicon",
+                "steeringPosition": {
+                    "@id": "http://schema.org/LeftHandDriving"
+                },
+                "manufacturer": "Jeep",
+                "description": "Selling my custom Jeep. Hemi swap done by AEV in Montana and the build was done by Just 4 Fun in Lindon UT.\n\n5.7L Hemi\nTeraFlex 60&amp;rsquo;s with 5:38 Super 60 gears, \nARB air lockers, with compressor \n35 spline chromoly shafts, \nBig Brakes and Full Float hubs.\nUpgraded 1350 driveshafts.\nFalcon 3.3 series shocks.\nTeraFlex Nomad wheels loaded with the Nomad fast air deflators.\n40&amp;rdquo; Tires\nCustom seats done by AEV\nAEV Dash Gages \nFull aluminum Skid Plate\nMore mods done, to many to list.\n\nCall or text if interested or for questions.",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "KSL Cars"
+                },
+                "offer": {
+                    "@type": "Offer",
+                    "priceCurrency": "USD",
+                    "price": 68000,
+                    "availability": "https://schema.org/InStock",
+                    "itemCondition": {
+                        "@id": "https://schema.org/RefurbishedCondition"
+                    },
+                    "seller": {
+                        "@type": "Person",
+                        "name": "Evan",
+                        "telephone": "(801) 450-2118",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "USA",
+                            "postalCode": "84005"
+                        }
+                    }
+                }
+            },
+            "isSingleFSBOListing": false,
+            "member": {
+                "id": "4834680",
+                "zip": "97818"
+            },
+            "initialReduxState": {
+                "app": {
+                    "sessionData": {
+                        "es_query_group": "fc9a7a35-471e-4bec-b121-057ea16c1ee6",
+                        "sess_referer": "https://cars.ksl.com/",
+                        "sess_ip": "54.71.26.201",
+                        "sess_protocol": "https",
+                        "sess_count": 0,
+                        "page_count": 1,
+                        "member": {
+                            "email": "muhammad.mohsin26@gmail.com",
+                            "emailValid": true,
+                            "ppid": "7bd171b7234a8960698b3be6ccaa2c99e2d8e7e6",
+                            "id": 4834680,
+                            "first": "Muhammad",
+                            "last": "Mohsin",
+                            "accountage": "6"
+                        },
+                        "mid": 4834680,
+                        "session_id": "sepj6cspnehgcdesmbs1vltlgi"
+                    },
+                    "eventPage": "listing.index",
+                    "member": {
+                        "altPhone": "",
+                        "city": "",
+                        "createTime": "Thu, 25 May 2023 05:37:36 GMT",
+                        "email": "muhammad.mohsin26@gmail.com",
+                        "emailAllow": "false",
+                        "emailValid": "true",
+                        "firstName": "Muhammad",
+                        "lastName": "Mohsin",
+                        "loginTime": "Tue, 30 May 2023 01:41:15 GMT",
+                        "loginTotal": 9,
+                        "memberId": 4834680,
+                        "ppid": "7bd171b7234a8960698b3be6ccaa2c99e2d8e7e6",
+                        "priPhone": "",
+                        "role": "nobody",
+                        "screenname": "mohsin",
+                        "state": "",
+                        "status": "normal",
+                        "street1": "",
+                        "street2": "",
+                        "twoFactorAuth": "disabled",
+                        "valid": true,
+                        "zip": "97818",
+                        "id": "4834680",
+                        "access_token_cookie": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY4NTQzMjQ3NSwianRpIjoiMGM1Y2UxNWUtM2M5OC00ZjExLTg3NzktZjcxOTg0ODA5NjU2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJtZW1iZXJJZCI6NDgzNDY4MCwicm9sZSI6Im5vYm9keSJ9LCJuYmYiOjE2ODU0MzI0NzUsImV4cCI6MTY4NTUxODg3NX0.gDJ1twVX8XxvowLwbrV1daXo9LfXd8N0MfguhU7myuA",
+                        "refresh_token_cookie": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY4NTQzMjQ3NSwianRpIjoiZDVlMTAyZmQtZTNlOS00YmYyLWIyZTUtYTRjZGZhNjg5MjQ1IiwidHlwZSI6InJlZnJlc2giLCJzdWIiOnsibWVtYmVySWQiOjQ4MzQ2ODAsInJvbGUiOiJub2JvZHkifSwibmJmIjoxNjg1NDMyNDc1LCJleHAiOjE3MDEyNDM2NzV9.Wq-8-3LWRQwx-e6CpyeT_Qlg5nEZp5DXTkwA6xVUw_I"
+                    },
+                    "dataLayerInitializationData": {},
+                    "dataLayerEventQueue": [],
+                    "seo": false,
+                    "gtmLoaded": false,
+                    "pubAdsReady": false,
+                    "ua": {
+                        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+                        "browser": {
+                            "name": "Chrome",
+                            "version": "113.0.0.0",
+                            "major": "113"
+                        },
+                        "engine": {
+                            "name": "Blink",
+                            "version": "113.0.0.0"
+                        },
+                        "os": {
+                            "name": "Windows",
+                            "version": "10"
+                        },
+                        "device": {},
+                        "cpu": {
+                            "architecture": "amd64"
+                        }
+                    },
+                    "httpReferrer": null,
+                    "ip": null,
+                    "features": {},
+                    "window": {
+                        "width": null,
+                        "height": null,
+                        "isMobile": false,
+                        "bps": [
+                            "desktop"
+                        ],
+                        "scrollY": false
+                    },
+                    "wings": {},
+                    "banners": {},
+                    "applicationError": {
+                        "showModal": false,
+                        "message": "",
+                        "link": ""
+                    },
+                    "toast": null,
+                    "bustApiCache": false,
+                    "error500MessageResponse": null,
+                    "browser": {},
+                    "favoriteAlertsModalOpen": false,
+                    "favoriteAlertsListing": null
+                },
+                "backlotSearch": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "endOfListings": false,
+                    "listingCount": 0,
+                    "loadingListings": false,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "requestAccess": {
+                        "pending": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "showNewFilterTagsMobile": false,
+                    "showNewFilterTagsDesktop": false
+                },
+                "backlotVdp": {
+                    "listing": {
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": null,
+                    "carousel": [],
+                    "carouselQuery": {},
+                    "carouselItemsLoading": false,
+                    "carouselItemsAvailable": true,
+                    "carouselItemsTotal": true,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "specificationIsOpen": false,
+                    "conditionReportIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "conditionTag": null
+                },
+                "dataLayer": {
+                    "impressionsQueue": []
+                },
+                "polls": {
+                    "polls": [],
+                    "pollGroups": [],
+                    "pollsLoading": false,
+                    "state": "ask",
+                    "open": true,
+                    "pollStats": {},
+                    "vdpPollStats": []
+                },
+                "recordings": {
+                    "recordings": [],
+                    "totalRecordings": 0,
+                    "page": 0,
+                    "loadingRecordings": true,
+                    "downloadReady": false,
+                    "generatingDownload": false
+                },
+                "search": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "listingCount": 0,
+                    "loadingListings": true,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "spotlights": [],
+                    "spotlightCount": 0,
+                    "spotlightsPerRow": 0,
+                    "mixedListings": [],
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "dealerViewMemberId": null,
+                    "showNewFilterTagsDesktop": false,
+                    "showNewFilterTagsMobile": false,
+                    "showCounterIncremented": false,
+                    "filterTagsToShow": [
+                        "alphaWarranty",
+                        "listingType"
+                    ]
+                },
+                "vdp": {
+                    "listing": {
+                        "numberDoors": 4,
+                        "favorites": 11,
+                        "newUsed": "Used",
+                        "displayTime": "May 30, 2023",
+                        "titleType": "Rebuilt/Reconstructed Title",
+                        "lastName": "Sigler",
+                        "upholstery": [
+                            "Brown"
+                        ],
+                        "city": "Eagle Mountain",
+                        "fuel": "Gasoline",
+                        "paint": [
+                            "Orange"
+                        ],
+                        "description": "Selling my custom Jeep. Hemi swap done by AEV in Montana and the build was done by Just 4 Fun in Lindon UT.\n\n5.7L Hemi\nTeraFlex 60&amp;rsquo;s with 5:38 Super 60 gears, \nARB air lockers, with compressor \n35 spline chromoly shafts, \nBig Brakes and Full Float hubs.\nUpgraded 1350 driveshafts.\nFalcon 3.3 series shocks.\nTeraFlex Nomad wheels loaded with the Nomad fast air deflators.\n40&amp;rdquo; Tires\nCustom seats done by AEV\nAEV Dash Gages \nFull aluminum Skid Plate\nMore mods done, to many to list.\n\nCall or text if interested or for questions.",
+                        "body": "SUV",
+                        "interiorColor": "Brown",
+                        "transmission": "Automanual",
+                        "trim": "Rubicon",
+                        "price": "$68,000",
+                        "vin": "1C4BJWFGXGL135444",
+                        "model": "Wrangler Unlimited",
+                        "id": 8518550,
+                        "state": "UT",
+                        "make": "Jeep",
+                        "memberId": 2052932,
+                        "mileage": "50,000",
+                        "contactMethod": [
+                            "phone",
+                            "text",
+                            "phoneEmail"
+                        ],
+                        "zip": "84005",
+                        "exteriorColor": "Orange",
+                        "liters": "5.7L",
+                        "makeYear": 2016,
+                        "productStatus": [
+                            "frontline"
+                        ],
+                        "photo": [
+                            {
+                                "width": 458,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380190-227061.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 453,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380194-283103.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380202-126632.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380210-425702.jpg",
+                                "height": 599
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380215-244313.jpg",
+                                "height": 599
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380222-686608.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 338,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380227-475800.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 338,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380233-188188.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380237-819171.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380248-876264.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380257-146937.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/2052932-1682380262-682485.jpg",
+                                "height": 600
+                            }
+                        ],
+                        "cylinders": 8,
+                        "firstName": "Evan",
+                        "primaryPhone": "(801) 450-2118",
+                        "expireTime": 1688021693,
+                        "mobilePhone": "(801) 450-2118",
+                        "latLon": "40.349739,-111.98479",
+                        "drive": "4-Wheel Drive",
+                        "sellerType": "For Sale By Owner",
+                        "exteriorCondition": "Good",
+                        "interiorCondition": "Very Good",
+                        "status": "Active",
+                        "favoritedByCurrentUser": false,
+                        "displayTimeRaw": 1685429693,
+                        "priceRaw": 68000,
+                        "mileageRaw": 50000,
+                        "contactlessDelivery": false,
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": null,
+                    "recommendationCarousel": [],
+                    "dealerCarousel": [],
+                    "dealerCarouselQuery": {},
+                    "recommendationCarouselItemsLoading": false,
+                    "recommendationCarouselItemsAvailable": false,
+                    "dealerCarouselItemsLoading": false,
+                    "dealerCarouselItemsTotal": 0,
+                    "dealerCarouselItemsAvailable": false,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "flagListingValidated": null,
+                    "specificationIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "tiv": {},
+                    "dealFiRedirectUrl": null,
+                    "dealFiPostingError": null
+                }
+            }
+        }
+    },
+    "page": "/listing/[[...params]]",
+    "query": {
+        "params": [
+            "8518550"
+        ]
+    },
+    "buildId": "cars-ui-build",
+    "runtimeConfig": {
+        "API_URL": "https://api3.ksl.com",
+        "CARS_API_URL": "https://cars-api.ksl.com",
+        "KSL_URL": "https://www.ksl.com",
+        "CARS_URL": "https://cars.ksl.com",
+        "MYACCOUNT_URL": "https://www.ksl.com/myaccount",
+        "ENVIRONMENT": "production",
+        "OPTIMIZELY_SDK_KEY": "G6uxEzWLgmAAY1sccNis5x",
+        "MAPBOX_TOKEN": "pk.eyJ1IjoiZGRtLW1hcHMiLCJhIjoiY2tsbXJ3MXA1MDNpcjJvbzBsdG8wYTJpNSJ9.3qbXBIBvoiCwORM24rpXNQ",
+        "RECORDINGS_VERTICAL": "cars"
+    },
+    "isFallback": false,
+    "customServer": true,
+    "gip": true,
+    "scriptLoader": []
+}

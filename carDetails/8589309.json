@@ -1,0 +1,543 @@
+{
+    "props": {
+        "pageProps": {
+            "favorites": 0,
+            "newUsed": "Used",
+            "displayTime": "May 30, 2023",
+            "titleType": "Clean Title",
+            "upholstery": [
+                "Gray"
+            ],
+            "city": "Eagle Mountain",
+            "fuel": "Gasoline",
+            "description": "Manual. Great condition. Needs a clutch replacement, other than that no mechanical issues. Was thoroughly inspected by the mechanic. Great car, but I don't have finances to fix it. Very clean and well maintained. Great deal as I got it for 4700$.",
+            "paint": [
+                "Blue"
+            ],
+            "body": "SUV",
+            "interiorColor": "Gray",
+            "transmission": "Manual",
+            "trim": "Sports X",
+            "price": "$3,400",
+            "vin": "JF2SH63669G711065",
+            "model": "Forester",
+            "id": 8589309,
+            "state": "UT",
+            "make": "Subaru",
+            "memberId": 4678170,
+            "mileage": "202,000",
+            "contactMethod": [
+                "messages"
+            ],
+            "zip": "84045",
+            "exteriorColor": "Blue",
+            "makeYear": 2009,
+            "productStatus": [
+                "frontline"
+            ],
+            "photo": [
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429211-717012.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429214-509530.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 450,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429217-346669.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429220-187595.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429224-627744.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 450,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429227-825282.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 450,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429230-06028.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429233-60332.jpg",
+                    "height": 600
+                },
+                {
+                    "width": 450,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429236-75476.jpg",
+                    "height": 600
+                }
+            ],
+            "cylinders": 4,
+            "firstName": "Miraj",
+            "expireTime": 1688021239,
+            "latLon": "40.34661,-111.91491",
+            "sellerType": "For Sale By Owner",
+            "exteriorCondition": "Very Good",
+            "interiorCondition": "Excellent",
+            "status": "Active",
+            "favoritedByCurrentUser": false,
+            "displayTimeRaw": 1685429254,
+            "priceRaw": 3400,
+            "mileageRaw": 202000,
+            "contactlessDelivery": false,
+            "schemaMarkupList": {
+                "@type": "Car",
+                "@context": "http://schema.org",
+                "vehicleIdentificationNumber": "JF2SH63669G711065",
+                "name": "2009 Subaru Forester Sports X",
+                "image": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429211-717012.jpg",
+                "url": "https://cars.ksl.com/listing/8589309",
+                "color": "Blue",
+                "vehicleInteriorColor": "Gray",
+                "bodyType": "SUV",
+                "fuelType": "Gasoline",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "unitCode": "SMI",
+                    "value": "202,000"
+                },
+                "modelDate": 2009,
+                "vehicleTransmission": "Manual",
+                "vehicleEngine": [
+                    {
+                        "@type": "EngineSpecification",
+                        "engineType": "internal combustion engine",
+                        "fuelType": "Gasoline",
+                        "name": "4 cylinder Gasoline undefined"
+                    }
+                ],
+                "vehicleConfiguration": "Sports X",
+                "steeringPosition": {
+                    "@id": "http://schema.org/LeftHandDriving"
+                },
+                "manufacturer": "Subaru",
+                "description": "Manual. Great condition. Needs a clutch replacement, other than that no mechanical issues. Was thoroughly inspected by the mechanic. Great car, but I don't have finances to fix it. Very clean and well maintained. Great deal as I got it for 4700$.",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "KSL Cars"
+                },
+                "offer": {
+                    "@type": "Offer",
+                    "priceCurrency": "USD",
+                    "price": 3400,
+                    "availability": "https://schema.org/InStock",
+                    "itemCondition": {
+                        "@id": "https://schema.org/UsedCondition"
+                    },
+                    "seller": {
+                        "@type": "Person",
+                        "name": "Miraj",
+                        "telephone": "",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "USA",
+                            "postalCode": "84045"
+                        }
+                    }
+                }
+            },
+            "isSingleFSBOListing": false,
+            "member": {
+                "id": "4834680",
+                "zip": "97818"
+            },
+            "initialReduxState": {
+                "app": {
+                    "sessionData": {
+                        "es_query_group": "fc9a7a35-471e-4bec-b121-057ea16c1ee6",
+                        "sess_referer": "https://cars.ksl.com/",
+                        "sess_ip": "54.71.26.201",
+                        "sess_protocol": "https",
+                        "sess_count": 0,
+                        "page_count": 1,
+                        "member": {
+                            "email": "muhammad.mohsin26@gmail.com",
+                            "emailValid": true,
+                            "ppid": "7bd171b7234a8960698b3be6ccaa2c99e2d8e7e6",
+                            "id": 4834680,
+                            "first": "Muhammad",
+                            "last": "Mohsin",
+                            "accountage": "6"
+                        },
+                        "mid": 4834680,
+                        "session_id": "sepj6cspnehgcdesmbs1vltlgi"
+                    },
+                    "eventPage": "listing.index",
+                    "member": {
+                        "altPhone": "",
+                        "city": "",
+                        "createTime": "Thu, 25 May 2023 05:37:36 GMT",
+                        "email": "muhammad.mohsin26@gmail.com",
+                        "emailAllow": "false",
+                        "emailValid": "true",
+                        "firstName": "Muhammad",
+                        "lastName": "Mohsin",
+                        "loginTime": "Tue, 30 May 2023 01:41:15 GMT",
+                        "loginTotal": 9,
+                        "memberId": 4834680,
+                        "ppid": "7bd171b7234a8960698b3be6ccaa2c99e2d8e7e6",
+                        "priPhone": "",
+                        "role": "nobody",
+                        "screenname": "mohsin",
+                        "state": "",
+                        "status": "normal",
+                        "street1": "",
+                        "street2": "",
+                        "twoFactorAuth": "disabled",
+                        "valid": true,
+                        "zip": "97818",
+                        "id": "4834680",
+                        "access_token_cookie": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY4NTQzMjQ3NSwianRpIjoiMGM1Y2UxNWUtM2M5OC00ZjExLTg3NzktZjcxOTg0ODA5NjU2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJtZW1iZXJJZCI6NDgzNDY4MCwicm9sZSI6Im5vYm9keSJ9LCJuYmYiOjE2ODU0MzI0NzUsImV4cCI6MTY4NTUxODg3NX0.gDJ1twVX8XxvowLwbrV1daXo9LfXd8N0MfguhU7myuA",
+                        "refresh_token_cookie": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY4NTQzMjQ3NSwianRpIjoiZDVlMTAyZmQtZTNlOS00YmYyLWIyZTUtYTRjZGZhNjg5MjQ1IiwidHlwZSI6InJlZnJlc2giLCJzdWIiOnsibWVtYmVySWQiOjQ4MzQ2ODAsInJvbGUiOiJub2JvZHkifSwibmJmIjoxNjg1NDMyNDc1LCJleHAiOjE3MDEyNDM2NzV9.Wq-8-3LWRQwx-e6CpyeT_Qlg5nEZp5DXTkwA6xVUw_I"
+                    },
+                    "dataLayerInitializationData": {},
+                    "dataLayerEventQueue": [],
+                    "seo": false,
+                    "gtmLoaded": false,
+                    "pubAdsReady": false,
+                    "ua": {
+                        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+                        "browser": {
+                            "name": "Chrome",
+                            "version": "113.0.0.0",
+                            "major": "113"
+                        },
+                        "engine": {
+                            "name": "Blink",
+                            "version": "113.0.0.0"
+                        },
+                        "os": {
+                            "name": "Windows",
+                            "version": "10"
+                        },
+                        "device": {},
+                        "cpu": {
+                            "architecture": "amd64"
+                        }
+                    },
+                    "httpReferrer": null,
+                    "ip": null,
+                    "features": {},
+                    "window": {
+                        "width": null,
+                        "height": null,
+                        "isMobile": false,
+                        "bps": [
+                            "desktop"
+                        ],
+                        "scrollY": false
+                    },
+                    "wings": {},
+                    "banners": {},
+                    "applicationError": {
+                        "showModal": false,
+                        "message": "",
+                        "link": ""
+                    },
+                    "toast": null,
+                    "bustApiCache": false,
+                    "error500MessageResponse": null,
+                    "browser": {},
+                    "favoriteAlertsModalOpen": false,
+                    "favoriteAlertsListing": null
+                },
+                "backlotSearch": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "endOfListings": false,
+                    "listingCount": 0,
+                    "loadingListings": false,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "requestAccess": {
+                        "pending": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "showNewFilterTagsMobile": false,
+                    "showNewFilterTagsDesktop": false
+                },
+                "backlotVdp": {
+                    "listing": {
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": null,
+                    "carousel": [],
+                    "carouselQuery": {},
+                    "carouselItemsLoading": false,
+                    "carouselItemsAvailable": true,
+                    "carouselItemsTotal": true,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "specificationIsOpen": false,
+                    "conditionReportIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "conditionTag": null
+                },
+                "dataLayer": {
+                    "impressionsQueue": []
+                },
+                "polls": {
+                    "polls": [],
+                    "pollGroups": [],
+                    "pollsLoading": false,
+                    "state": "ask",
+                    "open": true,
+                    "pollStats": {},
+                    "vdpPollStats": []
+                },
+                "recordings": {
+                    "recordings": [],
+                    "totalRecordings": 0,
+                    "page": 0,
+                    "loadingRecordings": true,
+                    "downloadReady": false,
+                    "generatingDownload": false
+                },
+                "search": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "listingCount": 0,
+                    "loadingListings": true,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "spotlights": [],
+                    "spotlightCount": 0,
+                    "spotlightsPerRow": 0,
+                    "mixedListings": [],
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "dealerViewMemberId": null,
+                    "showNewFilterTagsDesktop": false,
+                    "showNewFilterTagsMobile": false,
+                    "showCounterIncremented": false,
+                    "filterTagsToShow": [
+                        "alphaWarranty",
+                        "listingType"
+                    ]
+                },
+                "vdp": {
+                    "listing": {
+                        "favorites": 0,
+                        "newUsed": "Used",
+                        "displayTime": "May 30, 2023",
+                        "titleType": "Clean Title",
+                        "upholstery": [
+                            "Gray"
+                        ],
+                        "city": "Eagle Mountain",
+                        "fuel": "Gasoline",
+                        "description": "Manual. Great condition. Needs a clutch replacement, other than that no mechanical issues. Was thoroughly inspected by the mechanic. Great car, but I don't have finances to fix it. Very clean and well maintained. Great deal as I got it for 4700$.",
+                        "paint": [
+                            "Blue"
+                        ],
+                        "body": "SUV",
+                        "interiorColor": "Gray",
+                        "transmission": "Manual",
+                        "trim": "Sports X",
+                        "price": "$3,400",
+                        "vin": "JF2SH63669G711065",
+                        "model": "Forester",
+                        "id": 8589309,
+                        "state": "UT",
+                        "make": "Subaru",
+                        "memberId": 4678170,
+                        "mileage": "202,000",
+                        "contactMethod": [
+                            "messages"
+                        ],
+                        "zip": "84045",
+                        "exteriorColor": "Blue",
+                        "makeYear": 2009,
+                        "productStatus": [
+                            "frontline"
+                        ],
+                        "photo": [
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429211-717012.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429214-509530.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 450,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429217-346669.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429220-187595.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429224-627744.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 450,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429227-825282.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 450,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429230-06028.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429233-60332.jpg",
+                                "height": 600
+                            },
+                            {
+                                "width": 450,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4678170-1685429236-75476.jpg",
+                                "height": 600
+                            }
+                        ],
+                        "cylinders": 4,
+                        "firstName": "Miraj",
+                        "expireTime": 1688021239,
+                        "latLon": "40.34661,-111.91491",
+                        "sellerType": "For Sale By Owner",
+                        "exteriorCondition": "Very Good",
+                        "interiorCondition": "Excellent",
+                        "status": "Active",
+                        "favoritedByCurrentUser": false,
+                        "displayTimeRaw": 1685429254,
+                        "priceRaw": 3400,
+                        "mileageRaw": 202000,
+                        "contactlessDelivery": false,
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": null,
+                    "recommendationCarousel": [],
+                    "dealerCarousel": [],
+                    "dealerCarouselQuery": {},
+                    "recommendationCarouselItemsLoading": false,
+                    "recommendationCarouselItemsAvailable": false,
+                    "dealerCarouselItemsLoading": false,
+                    "dealerCarouselItemsTotal": 0,
+                    "dealerCarouselItemsAvailable": false,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "flagListingValidated": null,
+                    "specificationIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "tiv": {},
+                    "dealFiRedirectUrl": null,
+                    "dealFiPostingError": null
+                }
+            }
+        }
+    },
+    "page": "/listing/[[...params]]",
+    "query": {
+        "params": [
+            "8589309"
+        ]
+    },
+    "buildId": "cars-ui-build",
+    "runtimeConfig": {
+        "API_URL": "https://api3.ksl.com",
+        "CARS_API_URL": "https://cars-api.ksl.com",
+        "KSL_URL": "https://www.ksl.com",
+        "CARS_URL": "https://cars.ksl.com",
+        "MYACCOUNT_URL": "https://www.ksl.com/myaccount",
+        "ENVIRONMENT": "production",
+        "OPTIMIZELY_SDK_KEY": "G6uxEzWLgmAAY1sccNis5x",
+        "MAPBOX_TOKEN": "pk.eyJ1IjoiZGRtLW1hcHMiLCJhIjoiY2tsbXJ3MXA1MDNpcjJvbzBsdG8wYTJpNSJ9.3qbXBIBvoiCwORM24rpXNQ",
+        "RECORDINGS_VERTICAL": "cars"
+    },
+    "isFallback": false,
+    "customServer": true,
+    "gip": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,464 @@
+{
+    "props": {
+        "pageProps": {
+            "favorites": 0,
+            "numberDoors": 4,
+            "newUsed": "Used",
+            "displayTime": "May 30, 2023",
+            "titleType": "Clean Title",
+            "city": "Salt Lake City",
+            "fuel": "Gasoline",
+            "body": "Sedan",
+            "trim": "LX",
+            "price": "$1,500",
+            "vin": "JHMES16553S001824",
+            "model": "Civic",
+            "id": 8589429,
+            "state": "UT",
+            "make": "Honda",
+            "memberId": 4060780,
+            "mileage": "310,000",
+            "contactMethod": [
+                "messages"
+            ],
+            "zip": "84116",
+            "address1": "",
+            "liters": "1.7L",
+            "makeYear": 2003,
+            "productStatus": [
+                "frontline"
+            ],
+            "photo": [
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432046-508681.jpeg",
+                    "height": 450
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432046-497563.jpeg",
+                    "height": 450
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432046-03268.jpeg",
+                    "height": 450
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432049-591086.jpeg",
+                    "height": 450
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432049-345859.jpeg",
+                    "height": 450
+                },
+                {
+                    "width": 800,
+                    "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432049-464398.jpeg",
+                    "height": 450
+                }
+            ],
+            "cylinders": 4,
+            "firstName": "",
+            "numberOfSeats": 5,
+            "expireTime": 1688024151,
+            "latLon": "",
+            "drive": "FWD",
+            "sellerType": "For Sale By Owner",
+            "status": "Active",
+            "favoritedByCurrentUser": false,
+            "description": "",
+            "displayTimeRaw": 1685432166,
+            "priceRaw": 1500,
+            "mileageRaw": 310000,
+            "contactlessDelivery": false,
+            "schemaMarkupList": {
+                "@type": "Car",
+                "@context": "http://schema.org",
+                "vehicleIdentificationNumber": "JHMES16553S001824",
+                "name": "2003 Honda Civic LX",
+                "image": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432046-508681.jpeg",
+                "url": "https://cars.ksl.com/listing/8589429",
+                "color": "Other",
+                "vehicleInteriorColor": "Other",
+                "bodyType": "Sedan",
+                "fuelType": "Gasoline",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "unitCode": "SMI",
+                    "value": "310,000"
+                },
+                "numberOfDoors": 4,
+                "driveWheelConfiguration": {
+                    "@id": "https://schema.org/FrontWheelDriveConfiguration"
+                },
+                "modelDate": 2003,
+                "vehicleEngine": [
+                    {
+                        "@type": "EngineSpecification",
+                        "engineType": "internal combustion engine",
+                        "fuelType": "Gasoline",
+                        "name": "4 cylinder Gasoline 1.7L"
+                    }
+                ],
+                "vehicleConfiguration": "LX",
+                "steeringPosition": {
+                    "@id": "http://schema.org/LeftHandDriving"
+                },
+                "manufacturer": "Honda",
+                "description": "",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "KSL Cars"
+                },
+                "offer": {
+                    "@type": "Offer",
+                    "priceCurrency": "USD",
+                    "price": 1500,
+                    "availability": "https://schema.org/InStock",
+                    "itemCondition": {
+                        "@id": "https://schema.org/UsedCondition"
+                    },
+                    "seller": {
+                        "@type": "Person",
+                        "name": "",
+                        "telephone": "",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "USA",
+                            "postalCode": "84116"
+                        }
+                    }
+                }
+            },
+            "isSingleFSBOListing": true,
+            "initialReduxState": {
+                "app": {
+                    "sessionData": {
+                        "es_query_group": "fc9a7a35-471e-4bec-b121-057ea16c1ee6",
+                        "sess_referer": "https://cars.ksl.com/",
+                        "sess_ip": "54.71.26.201",
+                        "sess_protocol": "https",
+                        "sess_count": 0,
+                        "page_count": 1,
+                        "session_id": "sepj6cspnehgcdesmbs1vltlgi"
+                    },
+                    "eventPage": "listing.index",
+                    "member": null,
+                    "dataLayerInitializationData": {},
+                    "dataLayerEventQueue": [],
+                    "seo": false,
+                    "gtmLoaded": false,
+                    "pubAdsReady": false,
+                    "ua": {
+                        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+                        "browser": {
+                            "name": "Chrome",
+                            "version": "113.0.0.0",
+                            "major": "113"
+                        },
+                        "engine": {
+                            "name": "Blink",
+                            "version": "113.0.0.0"
+                        },
+                        "os": {
+                            "name": "Windows",
+                            "version": "10"
+                        },
+                        "device": {},
+                        "cpu": {
+                            "architecture": "amd64"
+                        }
+                    },
+                    "httpReferrer": null,
+                    "ip": null,
+                    "features": {},
+                    "window": {
+                        "width": null,
+                        "height": null,
+                        "isMobile": false,
+                        "bps": [
+                            "desktop"
+                        ],
+                        "scrollY": false
+                    },
+                    "wings": {},
+                    "banners": {},
+                    "applicationError": {
+                        "showModal": false,
+                        "message": "",
+                        "link": ""
+                    },
+                    "toast": null,
+                    "bustApiCache": false,
+                    "error500MessageResponse": null,
+                    "browser": {},
+                    "favoriteAlertsModalOpen": false,
+                    "favoriteAlertsListing": null
+                },
+                "backlotSearch": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "endOfListings": false,
+                    "listingCount": 0,
+                    "loadingListings": false,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "requestAccess": {
+                        "pending": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "showNewFilterTagsMobile": false,
+                    "showNewFilterTagsDesktop": false
+                },
+                "backlotVdp": {
+                    "listing": {
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": null,
+                    "carousel": [],
+                    "carouselQuery": {},
+                    "carouselItemsLoading": false,
+                    "carouselItemsAvailable": true,
+                    "carouselItemsTotal": true,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "specificationIsOpen": false,
+                    "conditionReportIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "conditionTag": null
+                },
+                "dataLayer": {
+                    "impressionsQueue": []
+                },
+                "polls": {
+                    "polls": [],
+                    "pollGroups": [],
+                    "pollsLoading": false,
+                    "state": "ask",
+                    "open": true,
+                    "pollStats": {},
+                    "vdpPollStats": []
+                },
+                "recordings": {
+                    "recordings": [],
+                    "totalRecordings": 0,
+                    "page": 0,
+                    "loadingRecordings": true,
+                    "downloadReady": false,
+                    "generatingDownload": false
+                },
+                "search": {
+                    "favorites": [],
+                    "favoriteCounts": {},
+                    "listings": [],
+                    "listingCount": 0,
+                    "loadingListings": true,
+                    "pageDepth": 1,
+                    "appendedChunksCount": 1,
+                    "listingPages": {},
+                    "facetData": {
+                        "perPage": 24,
+                        "page": 1,
+                        "make": [],
+                        "model": [],
+                        "trim": []
+                    },
+                    "facetOptions": {
+                        "make": [],
+                        "model": [],
+                        "trim": [],
+                        "cities": [],
+                        "topSearches": []
+                    },
+                    "facetCounts": {},
+                    "makeModelTrim": {},
+                    "spotlights": [],
+                    "spotlightCount": 0,
+                    "spotlightsPerRow": 0,
+                    "mixedListings": [],
+                    "dealers": [],
+                    "allFacetsDimensions": {
+                        "height": 0
+                    },
+                    "savedSearch": {
+                        "saving": null,
+                        "error": null,
+                        "success": null
+                    },
+                    "dealerViewMemberId": null,
+                    "showNewFilterTagsDesktop": false,
+                    "showNewFilterTagsMobile": false,
+                    "showCounterIncremented": false,
+                    "filterTagsToShow": [
+                        "alphaWarranty",
+                        "listingType"
+                    ]
+                },
+                "vdp": {
+                    "listing": {
+                        "favorites": 0,
+                        "numberDoors": 4,
+                        "newUsed": "Used",
+                        "displayTime": "May 30, 2023",
+                        "titleType": "Clean Title",
+                        "city": "Salt Lake City",
+                        "fuel": "Gasoline",
+                        "body": "Sedan",
+                        "trim": "LX",
+                        "price": "$1,500",
+                        "vin": "JHMES16553S001824",
+                        "model": "Civic",
+                        "id": 8589429,
+                        "state": "UT",
+                        "make": "Honda",
+                        "memberId": 4060780,
+                        "mileage": "310,000",
+                        "contactMethod": [
+                            "messages"
+                        ],
+                        "zip": "84116",
+                        "address1": "",
+                        "liters": "1.7L",
+                        "makeYear": 2003,
+                        "productStatus": [
+                            "frontline"
+                        ],
+                        "photo": [
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432046-508681.jpeg",
+                                "height": 450
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432046-497563.jpeg",
+                                "height": 450
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432046-03268.jpeg",
+                                "height": 450
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432049-591086.jpeg",
+                                "height": 450
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432049-345859.jpeg",
+                                "height": 450
+                            },
+                            {
+                                "width": 800,
+                                "id": "https://img.ksl.com/mx/mplace-cars.ksl.com/4060780-1685432049-464398.jpeg",
+                                "height": 450
+                            }
+                        ],
+                        "cylinders": 4,
+                        "firstName": "",
+                        "numberOfSeats": 5,
+                        "expireTime": 1688024151,
+                        "latLon": "",
+                        "drive": "FWD",
+                        "sellerType": "For Sale By Owner",
+                        "status": "Active",
+                        "favoritedByCurrentUser": false,
+                        "description": "",
+                        "displayTimeRaw": 1685432166,
+                        "priceRaw": 1500,
+                        "mileageRaw": 310000,
+                        "contactlessDelivery": false,
+                        "isFavorited": false
+                    },
+                    "pcSponsor": {},
+                    "isSingleFsboListing": true,
+                    "recommendationCarousel": [],
+                    "dealerCarousel": [],
+                    "dealerCarouselQuery": {},
+                    "recommendationCarouselItemsLoading": false,
+                    "recommendationCarouselItemsAvailable": false,
+                    "dealerCarouselItemsLoading": false,
+                    "dealerCarouselItemsTotal": 0,
+                    "dealerCarouselItemsAvailable": false,
+                    "flagListingPending": null,
+                    "flagListingSuccess": null,
+                    "flagListingError": null,
+                    "flagListingValidated": null,
+                    "specificationIsOpen": false,
+                    "photoViewerIsOpen": false,
+                    "photoIndex": 0,
+                    "photoViewMode": "photos",
+                    "emailSellerPending": null,
+                    "emailSellerSuccess": null,
+                    "emailSellerError": null,
+                    "pageViews": 0,
+                    "tiv": {},
+                    "dealFiRedirectUrl": null,
+                    "dealFiPostingError": null
+                }
+            }
+        }
+    },
+    "page": "/listing/[[...params]]",
+    "query": {
+        "params": [
+            "8589429"
+        ]
+    },
+    "buildId": "cars-ui-build",
+    "runtimeConfig": {
+        "API_URL": "https://api3.ksl.com",
+        "CARS_API_URL": "https://cars-api.ksl.com",
+        "KSL_URL": "https://www.ksl.com",
+        "CARS_URL": "https://cars.ksl.com",
+        "MYACCOUNT_URL": "https://www.ksl.com/myaccount",
+        "ENVIRONMENT": "production",
+        "OPTIMIZELY_SDK_KEY": "G6uxEzWLgmAAY1sccNis5x",
+        "MAPBOX_TOKEN": "pk.eyJ1IjoiZGRtLW1hcHMiLCJhIjoiY2tsbXJ3MXA1MDNpcjJvbzBsdG8wYTJpNSJ9.3qbXBIBvoiCwORM24rpXNQ",
+        "RECORDINGS_VERTICAL": "cars"
+    },
+    "isFallback": false,
+    "customServer": true,
+    "gip": true,
+    "scriptLoader": []
+}
